@@ -1,0 +1,16 @@
+{
+    "name": "kaue/api-correios",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kaue\\ApiCorreios\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kaue de matos",
+            "email": "kaue178hotimail@gmail.com"
+        }
+    ],
+    "require": {}
+}
